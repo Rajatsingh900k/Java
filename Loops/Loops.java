@@ -14,5 +14,13 @@ public class Loops {
             System.out.println("do while loop: "+(num));
             num++;
         }while(num<10);
+
+        ForEachLoop();
+    }
+    public static void ForEachLoop(){
+        int arr[]={1,2,3,4,5};
+        for(int num:arr){
+            System.out.println(num);
+        }
     }
 }

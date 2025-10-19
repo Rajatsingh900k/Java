@@ -4250,6 +4250,7 @@ This comprehensive Java guide covers all major topics from basic syntax to advan
 ### Static Members
 
 ```java
+
 public class StaticDemo {
     
     public static void main(String[] args) {
